@@ -1,0 +1,23 @@
+,,,,,,Scoring,Scoring,Scoring,Scoring,Goalie Stats,Goalie Stats,Goalie Stats,Goalie Stats,Goalie Stats,Point Shares,Point Shares,Point Shares,Point Shares,-additional
+Season,Lg,Player,Age,Tm,Pos,G,A,PTS,+/-,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,-9999
+2024-25,NHL,Connor Hellebuyck,31,WPG,G,0,1,1,0,47,12,3,2.00,.925,0.0,0.0,14.5,14.5,helleco01
+2023-24,NHL,Nathan MacKinnon,28,COL,C,51,89,140,35,,,,,,13.1,2.9,0.0,16.0,mackina01
+2022-23,NHL,Connor McDavid,26,EDM,C,64,89,153,22,,,,,,15.8,2.4,0.0,18.2,mcdavco01
+2021-22,NHL,Auston Matthews,24,TOR,C,60,46,106,20,,,,,,11.7,2.1,0.0,13.8,matthau01
+2020-21,NHL,Connor McDavid,24,EDM,C,33,72,105,21,,,,,,10.7,2.2,0.0,13.0,mcdavco01
+2019-20,NHL,Leon Draisaitl,24,EDM,C,43,67,110,-7,,,,,,10.9,1.8,0.0,12.8,draisle01
+2018-19,NHL,Nikita Kucherov,25,TBL,RW,41,87,128,24,,,,,,12.3,2.3,0.0,14.6,kucheni01
+2017-18,NHL,Taylor Hall,26,NJD,LW,39,54,93,14,,,,,,9.9,2.3,0.0,12.2,hallta02
+2016-17,NHL,Connor McDavid,20,EDM,C,30,70,100,27,,,,,,9.7,3.0,0.0,12.8,mcdavco01
+2015-16,NHL,Patrick Kane,27,CHI,RW,46,60,106,17,,,,,,12.4,2.6,0.0,15.0,kanepa01
+2014-15,NHL,Carey Price,27,MTL,G,0,1,1,0,44,16,6,1.96,.933,0.0,0.0,16.2,16.2,priceca01
+2013-14,NHL,Sidney Crosby,26,PIT,C,36,68,104,18,,,,,,10.7,2.8,0.0,13.5,crosbsi01
+2012-13,NHL,Alex Ovechkin,27,WSH,RW,32,24,56,2,,,,,,7.0,1.0,0.0,8.0,ovechal01
+2011-12,NHL,Evgeni Malkin,25,PIT,C,50,59,109,18,,,,,,13.4,2.3,0.0,15.7,malkiev01
+2010-11,NHL,Corey Perry,25,ANA,RW,50,48,98,9,,,,,,10.8,2.5,0.0,13.3,perryco01
+2009-10,NHL,Henrik Sedin,29,VAN,C,29,83,112,35,,,,,,10.6,2.9,0.0,13.5,sedinhe01
+2008-09,NHL,Alex Ovechkin,23,WSH,LW,56,54,110,8,,,,,,12.5,2.0,0.0,14.5,ovechal01
+2007-08,NHL,Alex Ovechkin,22,WSH,LW,65,47,112,28,,,,,,14.1,3.1,0.0,17.2,ovechal01
+2006-07,NHL,Sidney Crosby,19,PIT,C,36,84,120,10,,,,,,11.3,2.0,0.0,13.3,crosbsi01
+2005-06,NHL,Joe Thornton,26,TOT,C,29,96,125,31,,,,,,10.2,3.1,0.0,13.3,thornjo01
+2003-04,NHL,Martin St. Louis,28,TBL,RW,38,56,94,35,,,,,,10.1,3.1,0.0,13.2,stlouma01

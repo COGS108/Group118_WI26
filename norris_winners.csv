@@ -1,0 +1,22 @@
+Season,Lg,Player,Age,Tm,Pos,G,A,PTS,+/-,OPS,DPS,GPS,PS,Player-additional
+2024-25,NHL,Cale Makar,26,COL,D,30,62,92,28,9.6,6.5,0.0,16.1,makarca01
+2023-24,NHL,Quinn Hughes,24,VAN,D,17,75,92,38,7.9,6.5,0.0,14.4,hughequ01
+2022-23,NHL,Erik Karlsson,32,SJS,D,25,76,101,-26,9.4,3.0,0.0,12.4,karlser01
+2021-22,NHL,Cale Makar,23,COL,D,28,58,86,48,8.5,6.8,0.0,15.3,makarca01
+2020-21,NHL,Adam Fox,22,NYR,D,5,42,47,19,3.7,4.1,0.0,7.8,foxad01
+2019-20,NHL,Roman Josi,29,NSH,D,16,49,65,22,6.1,4.8,0.0,10.9,josiro01
+2018-19,NHL,Mark Giordano,35,CGY,D,17,57,74,39,6.7,5.9,0.0,12.6,giordma01
+2017-18,NHL,Victor Hedman,27,TBL,D,17,46,63,32,5.7,5.2,0.0,11.0,hedmavi01
+2016-17,NHL,Brent Burns,31,SJS,D,29,47,76,19,8.9,6.4,0.0,15.3,burnsbr01
+2015-16,NHL,Drew Doughty,26,LAK,D,14,37,51,24,4.5,7.1,0.0,11.6,doughdr01
+2014-15,NHL,Erik Karlsson,24,OTT,D,21,45,66,7,7.2,4.7,0.0,11.9,karlser01
+2013-14,NHL,Duncan Keith,30,CHI,D,6,55,61,22,5.1,4.9,0.0,10.0,keithdu01
+2012-13,NHL,P.K. Subban,23,MTL,D,11,27,38,12,4.3,2.9,0.0,7.1,subbapk01
+2011-12,NHL,Erik Karlsson,21,OTT,D,19,59,78,16,8.6,4.5,0.0,13.1,karlser01
+2010-11,NHL,Nicklas Lidström,40,DET,D,16,46,62,-2,6.2,3.3,0.0,9.5,lidstni01
+2009-10,NHL,Duncan Keith,26,CHI,D,14,55,69,21,6.3,6.2,0.0,12.6,keithdu01
+2008-09,NHL,Zdeno Chára,31,BOS,D,19,31,50,23,4.8,5.7,0.0,10.5,charazd01
+2007-08,NHL,Nicklas Lidström,37,DET,D,10,60,70,40,6.4,8.1,0.0,14.4,lidstni01
+2006-07,NHL,Nicklas Lidström,36,DET,D,13,49,62,40,5.3,7.9,0.0,13.1,lidstni01
+2005-06,NHL,Nicklas Lidström,35,DET,D,16,64,80,21,6.8,6.1,0.0,12.9,lidstni01
+2003-04,NHL,Scott Niedermayer,30,NJD,D,14,40,54,20,5.1,6.9,0.0,12.0,niedesc01
