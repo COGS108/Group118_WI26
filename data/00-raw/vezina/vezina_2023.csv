@@ -1,0 +1,9 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Linus Ullmark,29,BOS,G,127,84.67,22,5,2,,,40,6,1,1.89,.938,0.0,0.0,13.2,13.2,ullmali01
+2,Ilya Sorokin,27,NYI,G,70,46.67,3,17,4,,,31,22,7,2.34,.924,0.0,0.0,14.1,14.1,sorokil01
+3,Connor Hellebuyck,29,WPG,G,32,21.33,2,5,7,,,37,25,2,2.49,.920,0.0,0.0,14.3,14.3,helleco01
+4,Juuse Saros,27,NSH,G,24,16.00,2,2,8,,,33,23,7,2.69,.919,0.0,0.0,14.9,14.9,sarosju01
+5,Jake Oettinger,24,DAL,G,7,4.67,0,0,7,,,37,11,11,2.37,.919,0.0,0.0,12.7,12.7,oettija01
+6,Andrei Vasilevskiy,28,TBL,G,5,3.33,1,0,0,,,34,22,4,2.65,.915,0.0,0.0,12.7,12.7,vasilan02
+7,Alexandar Georgiev,26,COL,G,3,2.00,0,1,0,,,40,16,6,2.53,.918,0.0,0.0,13.4,13.4,georgal01
+8,Igor Shesterkin,27,NYR,G,2,1.33,0,0,2,,,37,13,8,2.48,.916,0.0,0.0,11.8,11.8,shestig01

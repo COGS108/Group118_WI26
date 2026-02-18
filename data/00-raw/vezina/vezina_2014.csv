@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Tuukka Rask,26,BOS,G,103,68.67,16,6,5,,,36,15,6,2.04,.930,0.0,0.0,13.1,13.1,rasktu01
+2,Semyon Varlamov,25,COL,G,90,60.00,9,13,6,,,41,14,6,2.41,.927,0.0,0.0,15.5,15.5,varlasi01
+3,Ben Bishop,27,TBL,G,32,21.33,1,6,9,,,37,14,7,2.23,.924,0.0,0.0,12.9,12.9,bishobe01
+4,Carey Price,26,MTL,G,26,17.33,2,3,7,,,34,20,5,2.32,.927,0.0,0.0,13.9,13.9,priceca01
+5,Jonathan Quick,28,LAK,G,9,6.00,1,1,1,,,27,17,4,2.07,.915,0.0,0.0,7.4,7.4,quickjo01
+6,Henrik Lundqvist,31,NYR,G,5,3.33,1,0,0,,,33,24,5,2.36,.920,0.0,0.0,12.4,12.4,lundqhe01
+7,Steve Mason,25,PHI,G,3,2.00,0,1,0,,,33,18,7,2.50,.917,0.0,0.0,11.3,11.3,masonst01
+8,Sergei Bobrovsky,25,CBJ,G,1,0.67,0,0,1,,,32,20,5,2.38,.923,0.0,0.0,12.1,12.1,bobrose01
+8,Kari Lehtonen,30,DAL,G,1,0.67,0,0,1,,,33,20,10,2.41,.919,0.0,0.0,12.6,12.6,lehtoka01

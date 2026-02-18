@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Braden Holtby,26,WSH,G,140,93.33,26,3,1,,,48,9,7,2.20,.922,0.0,0.0,12.1,12.1,holtbbr01
+2,Ben Bishop,29,TBL,G,51,34.00,2,12,5,,,35,21,4,2.06,.926,0.0,0.0,12.2,12.2,bishobe01
+3,Jonathan Quick,30,LAK,G,36,24.00,1,8,7,,,40,23,5,2.22,.918,0.0,0.0,11.5,11.5,quickjo01
+4,Roberto Luongo,36,FLA,G,14,9.33,0,3,5,,,35,19,6,2.35,.922,0.0,0.0,12.1,12.1,luongro01
+5,Corey Crawford,31,CHI,G,10,6.67,1,1,2,,,35,18,5,2.37,.924,0.0,0.0,12.0,12.0,crawfco01
+6,Cory Schneider,29,NJD,G,10,6.67,0,1,7,,,27,25,6,2.15,.924,0.0,0.0,11.1,11.1,schneco01
+7,John Gibson,22,ANA,G,3,2.00,0,1,0,,,21,13,4,2.07,.920,0.0,0.0,6.5,6.5,gibsojo02
+7,Martin Jones,26,SJS,G,3,2.00,0,1,0,,,37,23,4,2.27,.918,0.0,0.0,10.8,10.8,jonesma02
+9,Brian Elliott,30,STL,G,3,2.00,0,0,3,,,23,8,6,2.07,.930,0.0,0.0,8.6,8.6,elliobr01

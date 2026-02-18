@@ -1,0 +1,12 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Ryan Miller,29,BUF,G,126,84.00,23,3,2,,,41,18,8,2.22,.929,0.0,0.0,16.8,16.8,millery01
+2,Ilya Bryzgalov,29,PHX,G,79,52.67,5,16,6,,,42,20,6,2.29,.920,0.0,0.0,13.9,13.9,bryzgil01
+3,Martin Brodeur,37,NJD,G,32,21.33,1,6,9,,,45,25,6,2.24,.916,0.0,0.0,13.2,13.2,brodema01
+4,Evgeni Nabokov,34,SJS,G,9,6.00,1,1,1,,,44,16,10,2.43,.922,0.0,0.0,15.6,15.6,nabokev01
+4,Craig Anderson,28,COL,G,9,6.00,0,2,3,,,38,25,7,2.63,.917,0.0,0.0,14.8,14.8,andercr01
+6,Henrik Lundqvist,27,NYR,G,6,4.00,0,1,3,,,35,27,10,2.38,.921,0.0,0.0,15.0,15.0,lundqhe01
+7,Tuukka Rask,22,BOS,G,3,2.00,0,1,0,,,22,12,5,1.97,.931,0.0,0.0,10.2,10.2,rasktu01
+8,Jimmy Howard,25,DET,G,2,1.33,0,0,2,,,37,15,10,2.26,.924,0.0,0.0,13.8,13.8,howarja02
+8,Miikka Kiprusoff,33,CGY,G,2,1.33,0,0,2,,,35,28,10,2.31,.920,0.0,0.0,14.3,14.3,kiprumi01
+10,Jaroslav Halák,24,MTL,G,1,0.67,0,0,1,,,26,13,5,2.40,.924,0.0,0.0,10.4,10.4,halakja01
+10,Roberto Luongo,30,VAN,G,1,0.67,0,0,1,,,40,22,4,2.57,.913,0.0,0.0,11.8,11.8,luongro01

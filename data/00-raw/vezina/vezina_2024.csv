@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Connor Hellebuyck,30,WPG,G,158,98.75,31,1,0,,,37,19,4,2.39,.921,0.0,0.0,13.6,13.6,helleco01
+2,Thatcher Demko,28,VAN,G,70,43.75,0,20,10,,,35,14,2,2.45,.918,0.0,0.0,10.7,10.7,demkoth01
+3,Sergei Bobrovsky,35,FLA,G,40,25.00,1,8,11,,,36,17,4,2.37,.915,0.0,0.0,10.9,10.9,bobrose01
+4,Igor Shesterkin,28,NYR,G,7,4.38,0,1,4,,,36,17,2,2.58,.912,0.0,0.0,10.7,10.7,shestig01
+5,Juuse Saros,28,NSH,G,5,3.13,0,1,2,,,35,24,5,2.86,.906,0.0,0.0,11.1,11.1,sarosju01
+6,Linus Ullmark,30,BOS,G,3,1.88,0,1,0,,,22,10,7,2.57,.915,0.0,0.0,8.3,8.3,ullmali01
+7,Jeremy Swayman,25,BOS,G,3,1.88,0,0,3,,,25,10,8,2.53,.916,0.0,0.0,9.1,9.1,swaymje01
+8,Charlie Lindgren,30,WSH,G,1,0.63,0,0,1,,,25,16,7,2.67,.911,0.0,0.0,9.4,9.4,lindgch01
+8,Ilya Sorokin,28,NYI,G,1,0.63,0,0,1,,,25,19,12,3.01,.908,0.0,0.0,11.4,11.4,sorokil01

@@ -1,0 +1,12 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Sergei Bobrovsky,24,CBJ,G,110,73.33,17,8,1,,,21,11,6,2.00,.932,0.0,0.0,9.2,9.2,bobrose01
+2,Henrik Lundqvist,30,NYR,G,55,36.67,3,12,4,,,24,16,3,2.05,.926,0.0,0.0,9.3,9.3,lundqhe01
+3,Antti Niemi,29,SJS,G,46,30.67,6,4,4,,,24,12,6,2.16,.924,0.0,0.0,9.2,9.2,niemian02
+4,Craig Anderson,31,OTT,G,22,14.67,3,1,4,,,12,9,2,1.69,.941,0.0,0.0,6.5,6.5,andercr01
+5,Tuukka Rask,25,BOS,G,12,8.00,0,3,3,,,19,10,5,2.00,.929,0.0,0.0,8.0,8.0,rasktu01
+6,Jimmy Howard,28,DET,G,9,6.00,0,0,9,,,21,13,7,2.13,.923,0.0,0.0,8.4,8.4,howarja02
+7,Ray Emery,30,CHI,G,6,4.00,1,0,1,,,17,1,0,1.94,.922,0.0,0.0,3.4,3.4,emeryra01
+8,Corey Crawford,28,CHI,G,5,3.33,0,1,2,,,19,5,5,1.94,.926,0.0,0.0,6.0,6.0,crawfco01
+9,Jonas Hiller,30,ANA,G,3,2.00,0,1,0,,,15,6,4,2.36,.913,0.0,0.0,4.2,4.2,hillejo01
+10,Niklas Bäckström,34,MIN,G,1,0.67,0,0,1,,,24,15,3,2.48,.909,0.0,0.0,6.2,6.2,backsni01
+10,Carey Price,25,MTL,G,1,0.67,0,0,1,,,21,13,4,2.59,.905,0.0,0.0,5.4,5.4,priceca01

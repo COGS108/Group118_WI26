@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Pekka Rinne,35,NSH,G,129,83.23,22,6,1,,,42,13,4,2.31,.927,0.0,0.0,13.2,13.2,rinnepe01
+2,Connor Hellebuyck,24,WPG,G,82,52.90,7,14,5,,,44,11,9,2.36,.924,0.0,0.0,14.0,14.0,helleco01
+3,Andrei Vasilevskiy,23,TBL,G,21,13.55,0,5,6,,,44,17,3,2.62,.920,0.0,0.0,13.2,13.2,vasilan02
+4,Frederik Andersen,28,TOR,G,12,7.74,1,2,1,,,38,21,5,2.81,.918,0.0,0.0,13.6,13.6,anderfr01
+5,Marc-André Fleury,33,VEG,G,11,7.10,1,1,3,,,29,13,4,2.24,.927,0.0,0.0,9.9,9.9,fleurma01
+7,Tuukka Rask,30,BOS,G,7,4.52,0,2,1,,,34,14,5,2.36,.917,0.0,0.0,9.3,9.3,rasktu01
+8,Sergei Bobrovsky,29,CBJ,G,4,2.58,0,0,4,,,37,22,6,2.42,.921,0.0,0.0,12.9,12.9,bobrose01
+9,Roberto Luongo,38,FLA,G,1,0.65,0,0,1,,,18,11,2,2.47,.929,0.0,0.0,8.5,8.5,luongro01
+9,Jonathan Quick,32,LAK,G,1,0.65,0,0,1,,,33,28,3,2.40,.921,0.0,0.0,12.2,12.2,quickjo01

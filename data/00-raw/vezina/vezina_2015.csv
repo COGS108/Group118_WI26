@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Carey Price,27,MTL,G,144,96.00,27,3,0,,,44,16,6,1.96,.933,0.0,0.0,16.2,16.2,priceca01
+2,Pekka Rinne,32,NSH,G,60,40.00,1,15,10,,,41,17,6,2.18,.923,0.0,0.0,12.6,12.6,rinnepe01
+3,Devan Dubnyk,28,TOT,G,28,18.67,1,4,11,,,36,14,4,2.07,.929,0.0,0.0,12.6,12.6,dubnyde01
+4,Braden Holtby,25,WSH,G,26,17.33,0,7,5,,,41,20,10,2.22,.923,0.0,0.0,14.4,14.4,holtbbr01
+5,Henrik Lundqvist,32,NYR,G,6,4.00,1,0,1,,,30,13,3,2.25,.922,0.0,0.0,9.2,9.2,lundqhe01
+6,Corey Crawford,30,CHI,G,3,2.00,0,1,0,,,32,20,5,2.27,.924,0.0,0.0,11.9,11.9,crawfco01
+7,Andrew Hammond,26,OTT,G,1,0.67,0,0,1,,,20,1,2,1.79,.941,0.0,0.0,6.5,6.5,hammoan01
+7,Jonathan Quick,29,LAK,G,1,0.67,0,0,1,,,36,22,13,2.24,.918,0.0,0.0,12.1,12.1,quickjo01
+7,Cam Talbot,27,NYR,G,1,0.67,0,0,1,,,21,9,4,2.21,.926,0.0,0.0,7.6,7.6,talboca01

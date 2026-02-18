@@ -1,0 +1,11 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Connor Hellebuyck,31,WPG,G,158,98.75,31,1,0,,,47,12,3,2.00,.925,0.0,0.0,14.5,14.5,helleco01
+2,Andrei Vasilevskiy,30,TBL,G,80,50.00,1,23,6,,,38,20,5,2.18,.921,0.0,0.0,14.2,14.2,vasilan02
+3,Darcy Kuemper,34,LAK,G,33,20.63,0,6,15,,,31,11,7,2.02,.921,0.0,0.0,10.5,10.5,kuempda01
+4,Logan Thompson,27,WSH,G,7,4.38,0,1,4,,,31,6,6,2.49,.910,0.0,0.0,8.5,8.5,thomplo01
+5,Anthony Stolarz,31,TOR,G,3,1.88,0,1,0,,,21,8,3,2.14,.926,0.0,0.0,8.4,8.4,stolaan01
+6,Filip Gustavsson,26,MIN,G,2,1.25,0,0,2,,,31,19,6,2.56,.914,0.0,0.0,12.8,12.8,gustafi01
+6,Ilya Sorokin,29,NYI,G,2,1.25,0,0,2,,,30,24,6,2.71,.907,0.0,0.0,11.6,11.6,sorokil01
+8,Sam Montembeault,28,MTL,G,1,0.63,0,0,1,,,31,24,7,2.82,.901,0.0,0.0,10.5,10.5,montesa01
+8,Jake Oettinger,26,DAL,G,1,0.63,0,0,1,,,36,18,4,2.59,.909,0.0,0.0,11.4,11.4,oettija01
+8,Dustin Wolf,23,CGY,G,1,0.63,0,0,1,,,29,16,8,2.64,.910,0.0,0.0,11.1,11.1,wolfdu01
