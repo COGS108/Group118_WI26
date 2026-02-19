@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Tim Thomas,34,BOS,G,127,84.67,22,5,2,,,36,11,7,2.10,.933,0.0,0.0,14.7,14.7,thomati01
+2,Steve Mason,20,CBJ,G,33,22.00,3,4,6,,,33,20,7,2.29,.916,0.0,0.0,11.2,11.2,masonst01
+3,Niklas Bäckström,30,MIN,G,31,20.67,1,8,2,,,37,24,8,2.33,.923,0.0,0.0,15.6,15.6,backsni01
+4,Roberto Luongo,29,VAN,G,30,20.00,2,5,5,,,33,13,7,2.34,.920,0.0,0.0,11.1,11.1,luongro01
+5,Evgeni Nabokov,33,SJS,G,20,13.33,1,4,3,,,41,12,8,2.44,.910,0.0,0.0,10.2,10.2,nabokev01
+6,Henrik Lundqvist,26,NYR,G,14,9.33,1,1,6,,,38,25,7,2.43,.916,0.0,0.0,13.7,13.7,lundqhe01
+7,Cam Ward,24,CAR,G,11,7.33,0,2,5,,,39,23,5,2.44,.916,0.0,0.0,12.9,12.9,wardca01
+8,Miikka Kiprusoff,32,CGY,G,3,2.00,0,1,0,,,45,24,5,2.84,.903,0.0,0.0,11.5,11.5,kiprumi01
+9,Tomáš Vokoun,32,FLA,G,1,0.67,0,0,1,,,26,23,6,2.49,.926,0.0,0.0,14.6,14.6,vokouto01

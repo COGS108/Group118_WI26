@@ -1,0 +1,10 @@
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS,Player-additional
+1,Igor Shesterkin,26,NYR,G,154,96.25,29,3,0,,,36,13,4,2.07,.935,0.0,0.0,13.6,13.6,shestig01
+2,Jacob Markström,32,CGY,G,53,33.13,0,14,11,,,37,15,9,2.22,.922,0.0,0.0,12.4,12.4,marksja02
+3,Juuse Saros,26,NSH,G,32,20.00,0,9,5,,,38,25,3,2.64,.918,0.0,0.0,14.0,14.0,sarosju01
+4,Frederik Andersen,32,CAR,G,21,13.13,1,3,7,,,35,14,3,2.17,.922,0.0,0.0,10.2,10.2,anderfr01
+5,Andrei Vasilevskiy,27,TBL,G,14,8.75,1,2,3,,,39,18,5,2.49,.916,0.0,0.0,12.2,12.2,vasilan02
+6,Ilya Sorokin,26,NYI,G,11,6.88,1,1,3,,,26,18,8,2.40,.925,0.0,0.0,12.1,12.1,sorokil01
+7,Thatcher Demko,26,VAN,G,1,0.63,0,0,1,,,33,22,7,2.72,.915,0.0,0.0,12.4,12.4,demkoth01
+7,Ville Husso,26,STL,G,1,0.63,0,0,1,,,25,7,6,2.56,.919,0.0,0.0,8.4,8.4,hussovi01
+7,Tristan Jarry,26,PIT,G,1,0.63,0,0,1,,,34,18,6,2.42,.919,0.0,0.0,11.6,11.6,jarrytr01
