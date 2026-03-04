@@ -188,3 +188,5 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+!data/01-interim/*
+!data/02-processed/*
